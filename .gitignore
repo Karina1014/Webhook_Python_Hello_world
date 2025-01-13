@@ -1,0 +1,19 @@
+# packaging
+.Python
+env/
+
+
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# VSCode settings
+.vscode/
