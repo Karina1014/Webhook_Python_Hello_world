@@ -1,7 +1,7 @@
 # packaging
 .Python
 env/
-
+venv
 
 *.egg
 *.egg-info/
